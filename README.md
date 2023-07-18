@@ -6,6 +6,7 @@
 -  > Just Search "Vinay Daharwal" in duckduckgo
 -  > Linkedin : www.linkedin.com/in/vinay-daharwal
    > Twitter : https://twitter.com/vinaydaharwal5/
+   > Spotify Playlist: https://open.spotify.com/user/31ykxnsjvh3vuumysqxkrfexjjme
 
   
 
