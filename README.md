@@ -6,7 +6,7 @@
 I'm a passionate individual with a keen interest in Python, Machine Learning/AI, and Algorithms. I'm also currently exploring the world of front-end development.
 
 ## How to Reach Me
-- **DuckDuckGo:** Just search "Vinay Daharwal" on DuckDuckGo to find me.
+
 - **LinkedIn:** Connect with me on LinkedIn: [linkedin.com/in/vinay-daharwal](https://www.linkedin.com/in/vinay-daharwal)
 - **Twitter:** Follow me on Twitter: [twitter.com/vinaydaharwal5](https://twitter.com/vinaydaharwal5/)
 
