@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on  --
 - 📫 How to reach me
 -  > Just Search "Vinay Daharwal" in duckduckgo
--  > Linkedin : https://www.linkedin.com/in/vinay-daharwal-583929209/
+-  > Linkedin : www.linkedin.com/in/vinay-daharwal
    > Twitter : https://twitter.com/vinaydaharwal5/
 
   
