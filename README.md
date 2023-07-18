@@ -15,12 +15,18 @@ I'm a passionate individual with a keen interest in Python, Machine Learning/AI,
 - Machine Learning / AI
 - Algorithms
 
+## Projects
+- [**Geo-Location Analyzer**](https://github.com/Vinaydaharwal/Geo-Location-Analyzer)
+
+
 ## Collaboration
 I'm open to collaborating on exciting projects in the fields of Python, Machine Learning, and Algorithms. Feel free to reach out to me via any of the above contact methods.
 
 Looking forward to connecting with like-minded individuals and exploring new opportunities!
 
 Let's create something amazing together! 🚀
+
+
 
   
 
