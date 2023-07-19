@@ -18,6 +18,7 @@ I'm a passionate individual with a keen interest in Python, Machine Learning/AI,
 ## Projects
 - [**Geo-Location Analyzer**](https://github.com/Vinaydaharwal/Geo-Location-Analyzer)
 - [**YouTube Downloader**](https://github.com/Vinaydaharwal/Youtube-Downloader)
+- [**Profile Portfolio**](https://vinaydaharwal.github.io/)
 
 
 ## Collaboration
