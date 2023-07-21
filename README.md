@@ -3,7 +3,7 @@
 # Hi, I'm Vinay Daharwal! 👋
 
 ## About Me
-I'm a passionate individual with a keen interest in Python, Machine Learning/AI, and Algorithms. I'm also currently exploring the world of front-end Development.
+I'm a passionate individual with a keen interest in Python, Machine Learning/AI, and Algorithms. I'm also currently exploring the world of front-end development.
 
 ## How to Reach Me
 
