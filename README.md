@@ -10,7 +10,7 @@ I'm a passionate individual with a keen interest in Python, Machine Learning/AI,
 - [**LinkedIn:**](https://www.linkedin.com/in/vinay-daharwal) Connect with me on LinkedIn
 - [**Twitter:**](https://twitter.com/vinaydaharwal5/) Follow me on Twitter
 - [**Chess.com**](https://www.chess.com/member/vinaydaharwal) Like to play chess with me
-- [**Spotify playlists**](https://open.spotify.com/user/31ykxnsjvh3vuumysqxkrfexjjme) Let's determine if our music tastes are a match or not
+- 
 
 ## Interests
 - Python
