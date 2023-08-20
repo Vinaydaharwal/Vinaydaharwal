@@ -7,10 +7,10 @@ I'm a passionate individual with a keen interest in Python, Machine Learning/AI,
 
 ## How to Reach Me
 
-- **LinkedIn:** Connect with me on LinkedIn: [linkedin.com/in/vinay-daharwal](https://www.linkedin.com/in/vinay-daharwal)
-- **Twitter:** Follow me on Twitter: [twitter.com/vinaydaharwal5](https://twitter.com/vinaydaharwal5/)
+- [**LinkedIn:**](https://www.linkedin.com/in/vinay-daharwal) Connect with me on LinkedIn
+- [**Twitter:**](https://twitter.com/vinaydaharwal5/) Follow me on Twitter
 - [**Chess.com**](https://www.chess.com/member/vinaydaharwal) Like to play chess with me
-- [**Spotify playlist**](https://open.spotify.com/user/31ykxnsjvh3vuumysqxkrfexjjme) Let's determine if our music tastes are a match or not
+- [**Spotify playlists**](https://open.spotify.com/user/31ykxnsjvh3vuumysqxkrfexjjme) Let's determine if our music tastes are a match or not
 
 ## Interests
 - Python
