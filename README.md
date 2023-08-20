@@ -9,6 +9,7 @@ I'm a passionate individual with a keen interest in Python, Machine Learning/AI,
 
 - **LinkedIn:** Connect with me on LinkedIn: [linkedin.com/in/vinay-daharwal](https://www.linkedin.com/in/vinay-daharwal)
 - **Twitter:** Follow me on Twitter: [twitter.com/vinaydaharwal5](https://twitter.com/vinaydaharwal5/)
+- [**Chess.com**](https://www.chess.com/member/vinaydaharwal) Like to play chess with me
 
 ## Interests
 - Python
@@ -18,6 +19,7 @@ I'm a passionate individual with a keen interest in Python, Machine Learning/AI,
 ## Projects
 - [**Geo-Location Analyzer**](https://github.com/Vinaydaharwal/Geo-Location-Analyzer)
 - [**YouTube Downloader**](https://github.com/Vinaydaharwal/Youtube-Downloader)
+  
 
 
 
